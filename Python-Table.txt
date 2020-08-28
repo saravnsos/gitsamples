@@ -1,0 +1,27 @@
+CREATE TABLE travelInfo
+
+(TrainNumber
+OriginStation
+DestinationStation
+JourneyDate
+Passengarname
+Age
+Sex
+Region
+Division
+Class
+price)
+
+create table travelInfo 
+(TrainNumber string,
+OriginStation string,
+DestinationStation string,
+JourneyDate string,
+Passengarname string,
+Age int,
+Sex string,
+Region string,
+Division string,
+Class string,
+price double)
+row format delimited fields terminated by ',';
