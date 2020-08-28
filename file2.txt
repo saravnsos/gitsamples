@@ -1,3 +1,0 @@
-QA files
-
-this is a QA file changes
