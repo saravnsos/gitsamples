@@ -1,4 +1,4 @@
-CREATE TABLE travelInfo
+CREATE TABLE travelInfo  "Table"
 
 (TrainNumber
 OriginStation
@@ -11,6 +11,7 @@ Region
 Division
 Class
 price)
+
 
 create table travelInfo 
 (TrainNumber string,
